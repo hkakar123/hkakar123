@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hikmat Kakar
 ====================================================================================================================================
 
-Full-Stack Developer
+Software Engineer / Data Scientist
 --------------------
 
 I’m an aspiring full-stack developer with a strong foundation in both front-end and back-end technologies. I build responsive, user-focused web applications using HTML, CSS, JavaScript, and modern frameworks like React, along with Node.js, Express, and PostgreSQL or MongoDB on the server side. I'm passionate about clean code, efficient problem-solving, and constantly improving my skills through hands-on projects, certifications, and personal study. Whether it's designing intuitive user interfaces or setting up robust APIs and databases, I enjoy working across the stack to bring ideas to life.
